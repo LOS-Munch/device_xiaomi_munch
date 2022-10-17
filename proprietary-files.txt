@@ -10,6 +10,7 @@ vendor/etc/acdbdata/Tutu/Tutu_Hdmi_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_Headset_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_Speaker_cal.acdb
 vendor/etc/acdbdata/Tutu/Tutu_workspaceFile.qwsp
+vendor/lib/libacdbloader.so
 
 # ADSP-Modules
 vendor/lib/rfsa/adsp/capi_v2_aptX_CLHDADV_Encoder.so
