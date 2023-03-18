@@ -14,6 +14,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from device makefile
 $(call inherit-product, device/xiaomi/munch/device.mk)
 
+# Ih8sn
+$(call inherit-product-if-exists, ih8sn/product.mk)
+
 PRODUCT_NAME := lineage_munch
 PRODUCT_DEVICE := munch
 PRODUCT_MANUFACTURER := Xiaomi
